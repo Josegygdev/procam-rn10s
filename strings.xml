@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ProCam RN10S</string>
+    <string name="log_supported">Perfil LOG disponible (tonemap manual soportado)</string>
+    <string name="log_unsupported">Este equipo no expone tonemap manual — LOG se aplicará por software en Fase 2</string>
+</resources>

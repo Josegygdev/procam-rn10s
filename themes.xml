@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.ProCamRN10S" parent="Theme.MaterialComponents.NoActionBar">
+        <item name="android:windowBackground">@color/background_dark</item>
+        <item name="colorPrimary">@color/accent_log</item>
+        <item name="colorAccent">@color/accent_record</item>
+        <item name="android:statusBarColor">@color/background_dark</item>
+    </style>
+</resources>
